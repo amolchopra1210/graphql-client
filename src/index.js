@@ -9,7 +9,7 @@ import {
 } from "@apollo/client";
 
 const client = new ApolloClient({
-  uri: "https://afternoon-gorge-31028.herokuapp.com/",
+  uri: "https://afternoon-gorge-31028.herokuapp.com/graphql",
   cache: new InMemoryCache(),
 });
 
