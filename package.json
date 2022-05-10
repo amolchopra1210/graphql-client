@@ -37,5 +37,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy":"https://afternoon-gorge-31028.herokuapp.com/"
+  "proxy":"https://afternoon-gorge-31028.herokuapp.com/graphql"
 }
